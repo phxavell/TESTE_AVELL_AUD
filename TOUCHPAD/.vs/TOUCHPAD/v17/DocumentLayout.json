@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROJETOS_AVELL\\DESENVOLVIMENTO MAO\\PACOTE_DE_TESTES\\testar_IDEs_novo\\TOUCHPAD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAC9C7B-E2E1-4B3A-877C-1355EF2E578D}|TOUCHPAD\\TOUCHPAD.csproj|D:\\PROJETOS_AVELL\\DESENVOLVIMENTO MAO\\PACOTE_DE_TESTES\\testar_IDEs_novo\\TOUCHPAD\\touchpad\\touchpad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADAC9C7B-E2E1-4B3A-877C-1355EF2E578D}|TOUCHPAD\\TOUCHPAD.csproj|solutionrelative:touchpad\\touchpad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAC9C7B-E2E1-4B3A-877C-1355EF2E578D}|TOUCHPAD\\TOUCHPAD.csproj|d:\\projetos_avell\\desenvolvimento mao\\pacote_de_testes\\testar_ides_novo\\touchpad\\touchpad\\touchpad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAC9C7B-E2E1-4B3A-877C-1355EF2E578D}|TOUCHPAD\\TOUCHPAD.csproj|solutionrelative:touchpad\\touchpad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TOUCHPAD.cs",
+              "DocumentMoniker": "D:\\PROJETOS_AVELL\\DESENVOLVIMENTO MAO\\PACOTE_DE_TESTES\\testar_IDEs_novo\\TOUCHPAD\\TOUCHPAD\\TOUCHPAD.cs",
+              "RelativeDocumentMoniker": "TOUCHPAD\\TOUCHPAD.cs",
+              "ToolTip": "D:\\PROJETOS_AVELL\\DESENVOLVIMENTO MAO\\PACOTE_DE_TESTES\\testar_IDEs_novo\\TOUCHPAD\\TOUCHPAD\\TOUCHPAD.cs",
+              "RelativeToolTip": "TOUCHPAD\\TOUCHPAD.cs",
+              "ViewState": "AQIAAM0AAAAAAAAAAAAAAM0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T15:16:57.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TOUCHPAD.cs [Design]",
+              "DocumentMoniker": "D:\\PROJETOS_AVELL\\DESENVOLVIMENTO MAO\\PACOTE_DE_TESTES\\testar_IDEs_novo\\TOUCHPAD\\TOUCHPAD\\TOUCHPAD.cs",
+              "RelativeDocumentMoniker": "TOUCHPAD\\TOUCHPAD.cs",
+              "ToolTip": "D:\\PROJETOS_AVELL\\DESENVOLVIMENTO MAO\\PACOTE_DE_TESTES\\testar_IDEs_novo\\TOUCHPAD\\TOUCHPAD\\TOUCHPAD.cs [Design]",
+              "RelativeToolTip": "TOUCHPAD\\TOUCHPAD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T15:16:57.513Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
